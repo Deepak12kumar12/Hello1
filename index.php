@@ -19,6 +19,7 @@
     </header>
 
     <h1> Hello This is Deepak</h1>
+    <h2> Hello This is Deepak2</h2> 
         <p>This is a simple index page.</p>
         <p>Server time: <?php echo date('Y-m-d H:i:s'); ?></p>
     
