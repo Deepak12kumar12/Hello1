@@ -18,10 +18,10 @@
         <h1>Welcome</h1>
     </header>
 
-    <main>
+    <h1> Hello This is Deepak</h1>
         <p>This is a simple index page.</p>
         <p>Server time: <?php echo date('Y-m-d H:i:s'); ?></p>
-    </main>
+    
 
     <footer>
         &copy; <?php echo date('Y'); ?> My Site
